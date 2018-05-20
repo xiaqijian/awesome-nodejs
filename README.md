@@ -26,7 +26,7 @@
   
 - 中文
   - [NodeJS](http://nodejs.cn/)
-  - [Express](http://expressjs.com/zh-cn/)
+  - [Express](http://expressjs.com/zh-cn/)
   - [Koa](https://koa.bootcss.com/)
   - [ThinkjS](https://thinkjs.org/) 基于 Koa 2.x 实现
   - [Eggjs](https://eggjs.org/zh-cn/intro/) 基于 Koa 开发
