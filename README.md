@@ -50,6 +50,8 @@
    - cookie-parser ( 😃这个用户解析从客户端，传到服务器的cookie 😓这里要注意是cookie-parse`r`)
    - cookie-session
    - express-session
+- 处理表单
+  - [body-parser](https://github.com/expressjs/body-parser) 转换body内容的中间件，用于处理 JSON, Raw, Text 和 URL 编码的数据。
 - 文件上传
    - [multer](https://github.com/expressjs/multer/blob/master/doc/README-zh-cn.md)(🤓这个比较好用)
       -  [nodejs + multer 实现文件上传与下载](https://blog.csdn.net/maci_yera/article/details/71513238?utm_source=itdadao&utm_medium=referral)
