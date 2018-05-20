@@ -19,8 +19,8 @@
 - [脚手架工具](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E8%84%9A%E6%89%8B%E6%9E%B6%E5%B7%A5%E5%85%B7)
   - express
   - koa
-- 文档
-  - nodejs
+- [文档](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E6%96%87%E6%A1%A3)
+  - nodejs
 
 
 官网
@@ -86,7 +86,7 @@
 文档
 --
 - nodejs
-  - [NodeJS中文文档](https://legacy.gitbook.com/book/0532/nodejs/details)
+  - [NodeJS中文文档](https://legacy.gitbook.com/book/0532/nodejs/details)
 
 
 
