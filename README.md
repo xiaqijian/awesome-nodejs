@@ -33,7 +33,9 @@
 
 中间件
 --
-
+- 请求http
+  - [request](https://github.com/request/request) 简化版的第三方类http模块，同时支持https 和重定向
+  - [superagent](https://www.npmjs.com/package/superagent) 强大并且可读性很好的轻量级ajax API，是适用于nodejs环境的一个关于HTTP方面的库。
 - 设置环境变量
   - cross-env
 
