@@ -29,7 +29,7 @@
   - [Express](http://expressjs.com/zh-cn/)
   - [Koa](https://koa.bootcss.com/)
   - [ThinkjS](https://thinkjs.org/) 基于 Koa 2.x 实现
-  - [Eggjs](https://eggjs.org/zh-cn/intro/) 基于 Koa 开发
+  - [Eggjs](https://eggjs.org/zh-cn/intro/) 基于 Koa 开发
 
 中间件
 --
