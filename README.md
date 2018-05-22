@@ -75,7 +75,8 @@
   - bcrypt (bcrypt算法相对来说是运算比较慢的算法，在密码学界有句常话：越慢的算法越安全)[nodejs中使用bcrypt加密](https://blog.csdn.net/original_heart/article/details/78538908?reload)
 - 高并发控制
   - eventproxy 使用 eventproxy 控制并发
-
+- 流程控制
+  - [async](https://github.com/caolan/async) async是一个流程控制工具包
 
 脚手架工具
 --
