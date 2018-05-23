@@ -114,8 +114,9 @@
 --
 - nodejs
   - [《Node.js 包教不包会》](https://github.com/alsotang/node-lessons)
-  - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+  - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 
+- [一起学 Node.js](https://github.com/nswbmw/N-blog) 利用express搭建多人博客
 
 [👆🏻返回顶部](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E7%9B%AE%E5%BD%95)
 
