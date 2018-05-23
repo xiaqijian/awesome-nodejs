@@ -85,7 +85,7 @@
 - 高并发控制
   - eventproxy 使用 eventproxy 控制并发
 - 流程控制
-  - [async](https://github.com/caolan/async) async是一个流程控制工具包
+  - [async](https://github.com/caolan/async) async是一个流程控制工具包
 
 [👆🏻返回顶部](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E7%9B%AE%E5%BD%95)
 
