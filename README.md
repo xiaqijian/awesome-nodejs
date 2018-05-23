@@ -12,7 +12,7 @@
   - eggjs
 - [中间件](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E4%B8%AD%E9%97%B4%E4%BB%B6)
   - express
-  - koa
+  - koa 前往koa中间件集 👉[awesome-koa](https://github.com/xiaqijian/awesome-nodejs/blob/master/awesome-koa.md)
 - 框架
   - [express]()
   - [koa]()
