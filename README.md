@@ -26,7 +26,7 @@
   - express
   - koa
 - [面试](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E9%9D%A2%E8%AF%95)
-  - nodejs
+  - nodejs
 
 
 官网
