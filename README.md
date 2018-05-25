@@ -109,6 +109,9 @@
 --
 - nodejs
   - [NodeJS中文文档](https://legacy.gitbook.com/book/0532/nodejs/details)
+  
+- 手册
+  - [MIME 参考手册](http://www.w3school.com.cn/media/media_mimeref.asp)
 
 [👆🏻返回顶部](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E7%9B%AE%E5%BD%95)
 
