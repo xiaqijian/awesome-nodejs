@@ -90,6 +90,8 @@
   - [async](https://github.com/caolan/async) async是一个流程控制工具包
 - 编码问题
   - iconv-lite [使用iconv-lite解决node当中不支持GBK编码的问题](https://segmentfault.com/a/1190000011351573)
+- 监控文件变化
+  - browser-sync监听所有文件类型
 
 [👆🏻返回顶部](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E7%9B%AE%E5%BD%95)
 
