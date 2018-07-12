@@ -92,6 +92,8 @@
   - iconv-lite [使用iconv-lite解决node当中不支持GBK编码的问题](https://segmentfault.com/a/1190000011351573)
 - 监控文件变化
   - browser-sync监听所有文件类型
+- [compressing](https://github.com/node-modules/compressing)
+  - 压缩解压文件[基于 Node.js 实现压缩和解压缩](https://zhuanlan.zhihu.com/p/33783583)
 
 [👆🏻返回顶部](https://github.com/xiaqijian/awesome-nodejs/blob/master/README.md#%E7%9B%AE%E5%BD%95)
 
