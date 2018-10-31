@@ -15,7 +15,7 @@
   - [koa-views](https://github.com/queckezz/koa-views)
   
  - 静态文件
-  - koa-static
+   - koa-static
 
 文章
 --
