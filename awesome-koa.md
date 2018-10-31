@@ -13,6 +13,9 @@
 
 - 视图
   - [koa-views](https://github.com/queckezz/koa-views)
+  
+ - 静态文件
+  - koa-static
 
 文章
 --
